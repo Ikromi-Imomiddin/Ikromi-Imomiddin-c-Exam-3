@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Exam C#\Exam 3--\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Exam C#\Exam 3--\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Exam C#\Exam 3--\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Exam C#\Exam 3--\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Exam C#\Exam 3--\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
